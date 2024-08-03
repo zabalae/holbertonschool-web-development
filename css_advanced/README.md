@@ -6,8 +6,6 @@ This project focuses on the advanced concepts of CSS, building upon the foundati
 
 ## Learning Objectives
 
-Through this project, you will:
-
 - Understand advanced CSS techniques and concepts.
 - Learn how to apply styles efficiently to achieve a polished and professional look.
 - Gain experience in using CSS for responsive design and layout.
